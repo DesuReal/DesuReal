@@ -2,6 +2,8 @@
 
 ##About me
 
+!-- TO DO: add more details about me later -->
+
 Hi I am Brandon.
 
 <details><summary>My top THINGS-TO-RANK</summary>
