@@ -4,8 +4,12 @@
 
 Hi I am Brandon.
 
+<details><summary>My top THINGS-TO-RANK</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 | 1| Javascript|
 | 2| Python |
 | 3| SQL 
+  
+ </details>
