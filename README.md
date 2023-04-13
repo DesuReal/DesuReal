@@ -32,3 +32,28 @@ Hi I am Brandon.
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :--- | :---: | ---: |
+| git status | git status | git status |
+| git diff | git diff | git diff 
+
+
+| Name | Character |
+| --- | --- |
+| Backtick | ` |
+| Pipe | \| |
+
+<details><summary>CLICK ME</summary><p>#### We can hide anything, even code!```rubyputs "Hello World"```</p></details>
+
+
+```
+function test()
+{
+console.log("notice the blank line before this function?");
+}
+```
+
+
+
