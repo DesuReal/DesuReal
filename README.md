@@ -20,3 +20,15 @@ Hi I am Brandon.
  > If we pull together and commit ourselves, then we can push through anything.
  > 
  > — Brandon
+
+
+
+| First Header | Second Header |
+| ------------- | ------------- |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
