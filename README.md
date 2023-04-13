@@ -4,4 +4,8 @@
 
 Hi I am Brandon.
 
-| Rank | THING-TO-RANK ||-----:|---------------|| 1| || 2| || 3| |
+| Rank | Languages |
+|-----:|-----------|
+| 1| Javascript|
+| 2| Python |
+| 3| SQL 
